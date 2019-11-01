@@ -66,7 +66,6 @@ class Result<T> {
   }
 }
 
-/// Results type enum
 enum Results {
   Err,
   Ok,
